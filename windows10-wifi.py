@@ -1,7 +1,7 @@
 ######################################
-#Copyright of David Bombal, 2021     #
-#https://www.davidbombal.com         #
-#https://www.youtube.com/davidbombal #
+#Copyright of siraj Mohammed, 2021     #
+#https://www.youtube/Dsnawab.com         #
+#https://www.youtube.com/Dsnawab.com #
 ######################################
 
 # Import subprocess so we can use system commands
